@@ -21,6 +21,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@types/node": "^24.9.1",
+    "@types/uuid": "^9.0.7",
     "tsup": "^7.2.0",
     "typescript": "^5.3.3",
     "vitest": "^1.2.2"
