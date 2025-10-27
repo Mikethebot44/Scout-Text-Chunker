@@ -1,0 +1,31 @@
+{
+  "name": "chunkforge-sdk",
+  "version": "0.1.0",
+  "description": "ChunkForge SDK provides text chunking strategies for RAG pipelines.",
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsup",
+    "test": "vitest"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "chunking",
+    "rag",
+    "nlp",
+    "sdk"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^7.2.0",
+    "typescript": "^5.3.3",
+    "vitest": "^1.2.2"
+  },
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
