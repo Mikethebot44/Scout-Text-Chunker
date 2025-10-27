@@ -7,7 +7,7 @@ import { TopicChunker } from "../src/chunkers/TopicChunker";
 import { SlidingWindowChunker } from "../src/chunkers/SlidingWindowChunker";
 import type { Chunk } from "../src/types";
 
-const SAMPLE_TEXT = `ChunkForge provides a unified SDK for chunking text.\n\nThe SDK ships with multiple chunkers.\n\nSemantic chunking is useful when structure is weak but meaning shifts.`;
+const SAMPLE_TEXT = `Scout Text Chunker provides a unified SDK for chunking text.\n\nThe SDK ships with multiple chunkers.\n\nSemantic chunking is useful when structure is weak but meaning shifts.`;
 
 function assertChunkShape(chunks: Chunk[]) {
   chunks.forEach((chunk) => {

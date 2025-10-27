@@ -1,7 +1,7 @@
 {
-  "name": "chunkforge-sdk",
+  "name": "scout-text-chunker",
   "version": "0.1.0",
-  "description": "ChunkForge SDK provides text chunking strategies for RAG pipelines.",
+  "description": "Scout Text Chunker provides text chunking strategies for RAG pipelines.",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
