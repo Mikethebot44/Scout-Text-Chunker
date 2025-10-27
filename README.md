@@ -13,10 +13,6 @@ Scout Text Chunker is a unified TypeScript toolkit for splitting long-form conte
 
 ```bash
 npm install scout-text-chunker
-# or
-pnpm add scout-text-chunker
-# or
-yarn add scout-text-chunker
 ```
 
 ## Quick start
